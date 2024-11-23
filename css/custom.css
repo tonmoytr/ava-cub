@@ -1,0 +1,13 @@
+.rotate-90 {
+    transform: rotate(90deg);
+}
+
+.menu-list li a {
+    -webkit-transition: -webkit-text-stroke 200ms ease-in-out;
+    transition: -webkit-text-stroke 200ms ease-in-out;
+}
+
+.menu-list li a:hover {
+    -webkit-transition: -webkit-text-stroke 200ms ease-in;
+    transition: -webkit-text-stroke 200ms ease-in;
+}
